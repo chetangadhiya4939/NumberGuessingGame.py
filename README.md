@@ -21,4 +21,4 @@ This Python script implements a simple number guessing game where the player has
 Contributions are welcome! If you have any suggestions, feature requests, or found a bug, feel free to open an issue or create a pull request.
 
 #𝗟𝗶𝗰𝗲𝗻𝘀𝗲 :
-This project is licensed under the GNU License - see the LICENSE file for details
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details
