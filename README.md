@@ -5,11 +5,11 @@ A simple Python-based number guessing game where the user tries to guess a rando
 - 🐍 Python 3  
 
 ## **📸 Screenshots**  
-![image](https://github.com/user-attachments/assets/808e4ae7-35a7-47ea-a063-d486defce8b0)
-![image](https://github.com/user-attachments/assets/a044fbff-f469-49cd-a9ce-e89ef6b54f7f)
-![image](https://github.com/user-attachments/assets/7a2bcb0c-8913-452a-b0ba-8c55e826a75a)
-![image](https://github.com/user-attachments/assets/f1988a77-4fe0-47ba-b6a9-83dc322c0b0d)
 ![image](https://github.com/user-attachments/assets/12247fa5-e54d-48f5-a837-16709bf8afff)
+![image](https://github.com/user-attachments/assets/f1988a77-4fe0-47ba-b6a9-83dc322c0b0d)
+![image](https://github.com/user-attachments/assets/7a2bcb0c-8913-452a-b0ba-8c55e826a75a)
+![image](https://github.com/user-attachments/assets/a044fbff-f469-49cd-a9ce-e89ef6b54f7f)
+![image](https://github.com/user-attachments/assets/808e4ae7-35a7-47ea-a063-d486defce8b0)
 
 
 ## **🚀 How to Run the Game**  
